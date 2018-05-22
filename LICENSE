@@ -1,4 +1,9 @@
-MIT License
+App built with Electron using the  pocketsphinx.js
+Electron is under MIT license https://github.com/electron/electron
+
+Pocketsphinx.js https://github.com/syl22-00/pocketsphinx.js
+
+The remaining of this software is licensed under the MIT license:
 
 Copyright (c) 2018 citizen55
 
